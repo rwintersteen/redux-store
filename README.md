@@ -28,7 +28,7 @@ After cloning the repository:
 * MongoDB, mongoose
 
 ## Demo
-![Demo](/src/images/Piano-on-the-go.gif)
+![Demo](/src/assets/🛍️-Shop-Shop.gif)
 
 ## Repository
 * GitHub Repo: https://github.com/rwintersteen/redux-store
