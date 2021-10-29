@@ -6,7 +6,7 @@ AS a senior engineer working on an e-commerce platform
 I WANT my platform to use Redux to manage global state instead of the Context API
 SO THAT my website's state management is taken out of the React ecosystem
 ```
-![Homepage](./src/assets/shop-shop-homepage.png)
+![Homepage](/client/src/assets/shop-shop-homepage.png)
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -28,7 +28,7 @@ After cloning the repository:
 * MongoDB, mongoose
 
 ## Demo
-![Demo](./src/assets/🛍️-Shop-Shop.gif)
+![Demo](/client/src/assets/🛍️-Shop-Shop.gif)
 
 ## Repository
 * GitHub Repo: https://github.com/rwintersteen/redux-store
